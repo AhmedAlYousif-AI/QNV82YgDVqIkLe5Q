@@ -18,5 +18,5 @@ Methodology:
 
 
 
-Result:
+Conclusion:
 The result reached to 92.4% of Accuracy using SVM algorithm.
