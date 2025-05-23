@@ -1,7 +1,7 @@
 # Term Deposit Marketing
 
 Introduction:
-Building a Machine Learning Model that could predict which factor from the given information of the customers will improve the success rate of the calls for Finance and Banking field.
+Built a Machine Learning Model that could predict which factor from the given information of the customers will improve the success rate of the calls for Finance and Banking field.
 
 
 
