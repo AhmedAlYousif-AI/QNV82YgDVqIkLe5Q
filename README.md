@@ -6,7 +6,7 @@ Built a Machine Learning Model that could predict which factor from the given in
 
 
 # Data Description:
-The Dataset has 13 Columns representing the customers information, in addition of the Target Column (Y). The idea is to identify and predict about which given factor from the Customers information out of these Columns will encourge them to buy for the Term Deposit in the Bank.
+The Dataset has 13 Columns representing the customers information, in addition of the Target Column (Y). The idea is to identify and predict about which factor from the given Customers information will encourge them to buy for the Term Deposit in the Bank.
 
 
 
